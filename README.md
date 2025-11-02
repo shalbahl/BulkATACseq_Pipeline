@@ -7,4 +7,5 @@ This workflow provides an end-to-end ATACseq analysis pipeline for cell-lines, P
 It integrates widely used bioinformatics tools with cluster-optimized execution. 
 
 Workflow largely follows ENCODE recomendations with scripts written by Shalini Bahl and Ankita Nand.
+
 Layout is inspired by the following repo: UHN-PMLB/RNAseq_PDX_PDO_PatientTissue_Snakemake_v202509.
